@@ -1,7 +1,6 @@
-# Manufacturing & Automotive Agent Builder Scenarios (Dummy Data)
+# Manufacturing & Automotive Agent Builder Scenario
 
-This repository provides Agent Builder demo scenarios for **Manufacturing** and **Automotive** domains, modeled in the same practical format used in the FSI examples from the Asia Learning Hub.
-
+This repository provides Agent Builder demo scenarios for **Manufacturing** and **Automotive** domains
 ## Included Scenarios
 
 1. **Production Downtime Resolution Assistant** (Manufacturing)
